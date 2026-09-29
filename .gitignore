@@ -1,0 +1,10 @@
+.env
+*.pdf
+chroma_db/
+raw_datasheet.txt
+chunks.jsonl
+__pycache__/
+*.pyc
+.vscode/
+.configs/
+.qwen/

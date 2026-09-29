@@ -1,0 +1,10 @@
+```text
+pdfplumber
+langchain
+langchain-community
+dashscope
+chromadb
+fastapi
+uvicorn
+requests
+python-dotenv
